@@ -1,0 +1,3 @@
+trigger.config
+temp/
+__pycache__/
